@@ -9,7 +9,7 @@ Bu script aynı zamanda konsol penceresine ve exportlar sayesinde diğer scriptl
 
 
 **Links:**
-- [eph-queue Documentation]()
+- [eph-queue Documentation](https://mehmetefeerkan.github.io/eph-queue/)
 - [ephesus Website](https://mehmetefeerkan.github.io/fivem/)
 - [ephesusdev Discord](https://mehmetefeerkan.github.io/discord/)
 
